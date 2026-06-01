@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D1869&height=170&section=header&text=Patricia%20Lundgren&fontSize=38&fontColor=E8DEFF&animation=fadeIn&fontAlignY=58&desc=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&descAlignY=76&descSize=14&descColor=A98EE8" width="100%"/>
+<br/><br/>
+
+# Patricia Lundgren
+
+**Senior Product Designer · UX · Visual · Game Design**
 
 <br/>
 
 <a href="https://www.patricialundgren.com">
-  <img src="https://img.shields.io/badge/-patricialundgren.com-2D1869?style=for-the-badge&logo=safari&logoColor=E8DEFF" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/patricialundgren/">
-  <img src="https://img.shields.io/badge/-LinkedIn-2D1869?style=for-the-badge&logo=linkedin&logoColor=E8DEFF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://thatpat.itch.io/">
-  <img src="https://img.shields.io/badge/-Itch.io-2D1869?style=for-the-badge&logo=itchdotio&logoColor=E8DEFF" alt="Itch.io"/>
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
 </a>
 
 <br/><br/>
@@ -73,35 +77,35 @@ Lately I've also been building things with AI. Not just designing them, actually
 
 **Design & Creative**
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40" title="Figma" alt="Figma"/>
-<img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40" title="Adobe Photoshop" alt="Photoshop"/>
-<img src="https://skillicons.dev/icons?i=ai&theme=dark" height="40" title="Adobe Illustrator" alt="Illustrator"/>
-<img src="https://skillicons.dev/icons?i=ae&theme=dark" height="40" title="Adobe After Effects" alt="After Effects"/>
-<img src="https://skillicons.dev/icons?i=blender&theme=dark" height="40" title="Blender" alt="Blender"/>
-<img src="https://skillicons.dev/icons?i=aseprite&theme=dark" height="40" title="Aseprite" alt="Aseprite"/>
-<img src="https://cdn.simpleicons.org/procreate/A98EE8" height="36" title="Procreate" alt="Procreate"/>
-<img src="https://cdn.simpleicons.org/lottiefiles/A98EE8" height="36" title="Lottie" alt="Lottie"/>
-<img src="https://cdn.simpleicons.org/miro/A98EE8" height="36" title="Miro" alt="Miro"/>
-<img src="https://skillicons.dev/icons?i=storybook&theme=dark" height="40" title="Storybook" alt="Storybook"/>
+<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/After_Effects-111111?style=flat-square&logo=adobeaftereffects&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Procreate-111111?style=flat-square&logo=procreate&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Lottie-111111?style=flat-square&logo=lottiefiles&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Miro-111111?style=flat-square&logo=miro&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Storybook-111111?style=flat-square&logo=storybook&logoColor=A98EE8"/>
 
 <br/><br/>
 
 **Game**
 
-<img src="https://skillicons.dev/icons?i=unity&theme=dark" height="40" title="Unity" alt="Unity"/>
-<img src="https://skillicons.dev/icons?i=unreal&theme=dark" height="40" title="Unreal Engine" alt="Unreal Engine"/>
+<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Unreal-111111?style=flat-square&logo=unrealengine&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Aseprite-111111?style=flat-square&logo=aseprite&logoColor=A98EE8"/>
 
 <br/><br/>
 
 **Development & AI**
 
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" title="GitHub" alt="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" title="VS Code" alt="VS Code"/>
-<img src="https://cdn.simpleicons.org/anthropic/A98EE8" height="36" title="Anthropic / Claude" alt="Anthropic"/>
-<img src="https://cdn.simpleicons.org/openai/A98EE8" height="36" title="OpenAI" alt="OpenAI"/>
-<img src="https://cdn.simpleicons.org/githubcopilot/A98EE8" height="36" title="GitHub Copilot" alt="GitHub Copilot"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" title="Python" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" title="FastAPI" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Anthropic-111111?style=flat-square&logo=anthropic&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Copilot-111111?style=flat-square&logo=githubcopilot&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=A98EE8"/>
 
 </div>
 
