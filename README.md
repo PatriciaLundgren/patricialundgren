@@ -1,21 +1,21 @@
 <div align="center">
 
-<br/><br/>
-
-# Patricia Lundgren
-
-**Senior Product Designer · UX · Visual · Game Design**
-
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Patricia%20Lundgren&fontSize=44&fontColor=D4C5F9&animation=fadeIn&fontAlignY=75" width="500"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=28&text=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&fontSize=14&fontColor=8B78BE&animation=fadeIn&fontAlignY=80" width="620"/>
+
+<br/><br/>
+
 <a href="https://www.patricialundgren.com">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-2D1869?style=for-the-badge&logo=safari&logoColor=E8DEFF" alt="Portfolio"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/patricialundgren/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2D1869?style=for-the-badge&logo=linkedin&logoColor=E8DEFF" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://thatpat.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
+  <img src="https://img.shields.io/badge/Itch.io-2D1869?style=for-the-badge&logo=itchdotio&logoColor=E8DEFF" alt="Itch.io"/>
 </a>
 
 <br/><br/>
@@ -28,9 +28,9 @@
 
 ## Hi, I'm Patricia 👋
 
-Senior product designer since 2016, combining UX, UI, and visual design to build experiences that feel both intuitive and delightful. Game design thinking sneaks into most of what I do, whether it's a settings screen or a full product flow.
+I've been working in product design since 2016 - combining UX and usability with UI and visual design to craft intuitive, user-centred experiences. I blend structure, creativity, and game design thinking to deliver engaging work that sparks delight.
 
-Lately I've also been building things with AI. Not just designing them, actually shipping them. Turns out prototyping in code changes how you think about design in ways no Figma file quite can.
+Lately I've been expanding into AI-assisted development: prototyping tools, automating workflows, and shipping small apps, because the best design decisions come from understanding how things are built.
 
 <br/>
 
