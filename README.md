@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D1869&height=170&section=header&text=Patricia%20Lundgren&fontSize=38&fontColor=E8DEFF&animation=fadeIn&fontAlignY=60&desc=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&descAlignY=78&descSize=14&descColor=A98EE8" width="100%"/>
-
 <br/>
 
-<a href="https://www.patricialundgren.com">
-  <img src="https://img.shields.io/badge/Portfolio-2D1869?style=for-the-badge&logo=safari&logoColor=E8DEFF" alt="Portfolio"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/patricialundgren/">
-  <img src="https://img.shields.io/badge/LinkedIn-2D1869?style=for-the-badge&logo=linkedin&logoColor=E8DEFF" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://thatpat.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-2D1869?style=for-the-badge&logo=itchdotio&logoColor=E8DEFF" alt="Itch.io"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Patricia%20Lundgren&fontSize=46&fontColor=D4C5F9&animation=fadeIn&fontAlignY=75" width="500"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=28&text=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&fontSize=14&fontColor=8B78BE&animation=fadeIn&fontAlignY=80" width="640"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=A98EE8"/>&ensp;<a href="https://www.patricialundgren.com"><img src="https://img.shields.io/badge/patricialundgren.com-111111?style=flat-square&logoColor=A98EE8"/></a>&ensp;
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=A98EE8"/>&ensp;<a href="https://www.linkedin.com/in/patricialundgren/"><img src="https://img.shields.io/badge/patricialundgren-111111?style=flat-square&logoColor=A98EE8"/></a>&ensp;
+<img src="https://img.shields.io/badge/Itch.io-111111?style=flat-square&logo=itchdotio&logoColor=A98EE8"/>&ensp;<a href="https://thatpat.itch.io/"><img src="https://img.shields.io/badge/thatpat-111111?style=flat-square&logoColor=A98EE8"/></a>
 
 <br/><br/>
 
@@ -73,15 +73,19 @@ Lately I've been expanding into AI-assisted development: prototyping tools, auto
 
 **Design & Creative**
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender,storybook,aseprite&theme=dark" alt="Design tools"/>
-
-`Procreate` · `Procreate Dreams` · `Lottie` · `Miro`
-
-<br/><br/>
-
-**Game**
-
-<img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Game tools"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48" title="Figma" alt="Figma"/>
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" height="48" title="Adobe Photoshop" alt="Photoshop"/>
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" height="48" title="Adobe Illustrator" alt="Illustrator"/>
+<img src="https://skillicons.dev/icons?i=ae&theme=dark" height="48" title="Adobe After Effects" alt="After Effects"/>
+<img src="https://skillicons.dev/icons?i=blender&theme=dark" height="48" title="Blender" alt="Blender"/>
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" height="48" title="Unity" alt="Unity"/>
+<img src="https://skillicons.dev/icons?i=unreal&theme=dark" height="48" title="Unreal Engine" alt="Unreal Engine"/>
+<img src="https://skillicons.dev/icons?i=storybook&theme=dark" height="48" title="Storybook" alt="Storybook"/>
+<img src="https://skillicons.dev/icons?i=aseprite&theme=dark" height="48" title="Aseprite" alt="Aseprite"/>
+<img src="https://images.squarespace-cdn.com/content/v1/62686529e6c2576f5d769e04/dc206776-3f5e-48ac-8023-bf130ce0e03a/ProcreateDreams-AppIcon-1x-1024x1024.png" height="48" title="Procreate Dreams" alt="Procreate Dreams"/>
+<img src="https://avatars.githubusercontent.com/u/23060987?s=200&v=4" height="48" title="LottieFiles" alt="LottieFiles"/>
+<img src="https://avatars.githubusercontent.com/u/13957541?s=200&v=4" height="48" title="Miro" alt="Miro"/>
+<img src="https://avatars.githubusercontent.com/u/107422109?s=200&v=4" height="48" title="Procreate" alt="Procreate"/>
 
 <br/><br/>
 
