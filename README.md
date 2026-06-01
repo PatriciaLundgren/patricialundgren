@@ -1,12 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2D1869&height=170&section=header&text=Patricia%20Lundgren&fontSize=38&fontColor=E8DEFF&animation=fadeIn&fontAlignY=60&desc=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&descAlignY=78&descSize=14&descColor=A98EE8" width="100%"/>
+
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Patricia%20Lundgren&fontSize=44&fontColor=D4C5F9&animation=fadeIn&fontAlignY=75" width="500"/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=28&text=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&fontSize=14&fontColor=8B78BE&animation=fadeIn&fontAlignY=80" width="620"/>
-
-<br/><br/>
 
 <a href="https://www.patricialundgren.com">
   <img src="https://img.shields.io/badge/Portfolio-2D1869?style=for-the-badge&logo=safari&logoColor=E8DEFF" alt="Portfolio"/>
@@ -77,30 +73,22 @@ Lately I've been expanding into AI-assisted development: prototyping tools, auto
 
 **Design & Creative**
 
-<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/After_Effects-111111?style=flat-square&logo=adobeaftereffects&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Procreate-111111?style=flat-square&logo=procreate&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Lottie-111111?style=flat-square&logo=lottiefiles&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Miro-111111?style=flat-square&logo=miro&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Storybook-111111?style=flat-square&logo=storybook&logoColor=A98EE8"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender,storybook,aseprite&theme=dark" alt="Design tools"/>
+
+`Procreate` · `Procreate Dreams` · `Lottie` · `Miro`
 
 <br/><br/>
 
 **Game**
 
-<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Unreal-111111?style=flat-square&logo=unrealengine&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/Aseprite-111111?style=flat-square&logo=aseprite&logoColor=A98EE8"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Game tools"/>
 
 <br/><br/>
 
 **Development & AI**
 
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=A98EE8"/>
 <img src="https://img.shields.io/badge/Anthropic-111111?style=flat-square&logo=anthropic&logoColor=A98EE8"/>
 <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=A98EE8"/>
 <img src="https://img.shields.io/badge/Copilot-111111?style=flat-square&logo=githubcopilot&logoColor=A98EE8"/>
@@ -114,12 +102,6 @@ Lately I've been expanding into AI-assisted development: prototyping tools, auto
 ## GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=patricialundgren&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A98EE8&icon_color=A98EE8&text_color=C9B8F0&ring_color=7B5EA7" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricialundgren&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A98EE8&text_color=C9B8F0&card_width=260" height="160"/>
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/patricialundgren/patricialundgren/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake"/>
 
