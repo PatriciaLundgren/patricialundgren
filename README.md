@@ -1,20 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2D1869&height=185&section=header&text=Patricia%20Lundgren&fontSize=38&fontColor=E8DEFF&animation=fadeIn&fontAlignY=50&desc=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&descAlignY=80&descSize=14&descColor=A98EE8" width="100%"/>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Patricia%20Lundgren&fontSize=46&fontColor=D4C5F9&animation=fadeIn&fontAlignY=75" width="500"/>
+<a href="https://www.patricialundgren.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=A98EE8" alt="Portfolio"/></a>&ensp;
+<a href="https://www.linkedin.com/in/patricialundgren/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=A98EE8" alt="LinkedIn"/></a>&ensp;
+<a href="https://thatpat.itch.io/"><img src="https://img.shields.io/badge/Itch.io-111111?style=flat-square&logo=itchdotio&logoColor=A98EE8" alt="Itch.io"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=28&text=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&fontSize=14&fontColor=8B78BE&animation=fadeIn&fontAlignY=80" width="640"/>
+<img src="https://raw.githubusercontent.com/patricialundgren/patricialundgren/main/assets/ditto.svg" width="400" alt="Ditto"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=A98EE8"/>&ensp;<a href="https://www.patricialundgren.com"><img src="https://img.shields.io/badge/patricialundgren.com-111111?style=flat-square&logoColor=A98EE8"/></a>&ensp;
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=A98EE8"/>&ensp;<a href="https://www.linkedin.com/in/patricialundgren/"><img src="https://img.shields.io/badge/patricialundgren-111111?style=flat-square&logoColor=A98EE8"/></a>&ensp;
-<img src="https://img.shields.io/badge/Itch.io-111111?style=flat-square&logo=itchdotio&logoColor=A98EE8"/>&ensp;<a href="https://thatpat.itch.io/"><img src="https://img.shields.io/badge/thatpat-111111?style=flat-square&logoColor=A98EE8"/></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=300&size=16&duration=3500&pause=1200&color=A98EE8&center=true&vCenter=true&width=580&lines=Senior+product+designer+since+2016.;Building+things+that+spark+delight.;At+the+intersection+of+creativity+%26+technology." alt="Typing animation"/>
 
@@ -80,21 +78,21 @@ Lately I've been expanding into AI-assisted development: prototyping tools, auto
 <img src="https://skillicons.dev/icons?i=blender&theme=dark" height="48" title="Blender" alt="Blender"/>
 <img src="https://skillicons.dev/icons?i=unity&theme=dark" height="48" title="Unity" alt="Unity"/>
 <img src="https://skillicons.dev/icons?i=unreal&theme=dark" height="48" title="Unreal Engine" alt="Unreal Engine"/>
-<img src="https://skillicons.dev/icons?i=storybook&theme=dark" height="48" title="Storybook" alt="Storybook"/>
-<img src="https://skillicons.dev/icons?i=aseprite&theme=dark" height="48" title="Aseprite" alt="Aseprite"/>
+<img src="https://github.com/storybookjs.png?size=200" height="48" title="Storybook" alt="Storybook"/>
+<img src="https://github.com/aseprite.png?size=200" height="48" title="Aseprite" alt="Aseprite"/>
+<img src="https://procreate-assets-cdn.procreate.com/_nuxt/apple-icon.DmK-mlNX.png" height="48" title="Procreate" alt="Procreate"/>
 <img src="https://images.squarespace-cdn.com/content/v1/62686529e6c2576f5d769e04/dc206776-3f5e-48ac-8023-bf130ce0e03a/ProcreateDreams-AppIcon-1x-1024x1024.png" height="48" title="Procreate Dreams" alt="Procreate Dreams"/>
-<img src="https://avatars.githubusercontent.com/u/23060987?s=200&v=4" height="48" title="LottieFiles" alt="LottieFiles"/>
-<img src="https://avatars.githubusercontent.com/u/13957541?s=200&v=4" height="48" title="Miro" alt="Miro"/>
-<img src="https://avatars.githubusercontent.com/u/107422109?s=200&v=4" height="48" title="Procreate" alt="Procreate"/>
+<img src="https://github.com/LottieFiles.png?size=200" height="48" title="LottieFiles" alt="LottieFiles"/>
+<img src="https://github.com/mirohq.png?size=200" height="48" title="Miro" alt="Miro"/>
 
 <br/><br/>
 
 **Development & AI**
 
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0E5OEVFOCI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAxOS44OFY0LjEyYTEuNSAxLjUgMCAwIDAtLjg1LTEuNTMzek0xNyAxNS43MTlMMTIuMzggMTIgMTcgOC4yODF2Ny40Mzh6Ii8+PC9zdmc+"/>
 <img src="https://img.shields.io/badge/Anthropic-111111?style=flat-square&logo=anthropic&logoColor=A98EE8"/>
-<img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=A98EE8"/>
+<img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0E5OEVFOCI+PHBhdGggZD0iTTIyLjI4MiA5LjgyMWE1Ljk4NSA1Ljk4NSAwIDAgMC0uNTE2LTQuOTEgNi4wNDYgNi4wNDYgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE1Ljk4NSA1Ljk4NSAwIDAgMC0zLjk5OCAyLjkgNi4wNDYgNi4wNDYgMCAwIDAgLjc0MyA3LjA5NyA1Ljk4IDUuOTggMCAwIDAgLjUxIDQuOTExIDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE1IDIuOUE1Ljk4NSA1Ljk4NSAwIDAgMCAxMy4yNiAyNGE2LjA1NiA2LjA1NiAwIDAgMCA1Ljc3Mi00LjIwNiA1Ljk5IDUuOTkgMCAwIDAgMy45OTctMi45IDYuMDU2IDYuMDU2IDAgMCAwLS43NDctNy4wNzN6TTEzLjI2IDIyLjQzYTQuNDc2IDQuNDc2IDAgMCAxLTIuODc2LTEuMDRsLjE0MS0uMDgxIDQuNzc5LTIuNzU4YS43OTUuNzk1IDAgMCAwIC4zOTItLjY4MXYtNi43MzdsMi4wMiAxLjE2OGEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4M2E0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NCA0LjQ5NHpNMy42IDE4LjMwNGE0LjQ3IDQuNDcgMCAwIDEtLjUzNS0zLjAxNGwuMTQyLjA4NSA0Ljc4MyAyLjc1OWEuNzcxLjc3MSAwIDAgMCAuNzggMGw1Ljg0My0zLjM2OXYyLjMzMmEuMDguMDggMCAwIDEtLjAzMy4wNjJMOS43NCAxOS45NWE0LjUgNC41IDAgMCAxLTYuMTQtMS42NDZ6TTIuMzQgNy44OTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjYtMS45NzNWMTEuNmEuNzY2Ljc2NiAwIDAgMCAuMzg4LjY3Nmw1LjgxNSAzLjM1NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNC44My0yLjc4NkE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTUuODMzLTMuMzg3TDE1LjExOSA3LjJhLjA3Ni4wNzYgMCAwIDEgLjA3MSAwbDQuODMgMi43OTFhNC40OTQgNC40OTQgMCAwIDEtLjY3NiA4LjEwNXYtNS42NzhhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMS0zLjAyM2wtLjE0MS0uMDg1LTQuNzc0LTIuNzgyYS43NzYuNzc2IDAgMCAwLS43ODUgMEw5LjQwOSA5LjIzVjYuODk3YS4wNjYuMDY2IDAgMCAxIC4wMjgtLjA2MWw0LjgzLTIuNzg3YTQuNSA0LjUgMCAwIDEgNi42OCA0LjY2em0tMTIuNjQgNC4xMzVsLTIuMDItMS4xNjRhLjA4LjA4IDAgMCAxLS4wMzgtLjA1N1Y2LjA3NWE0LjUgNC41IDAgMCAxIDcuMzc1LTMuNDUzbC0uMTQyLjA4TDguNzA0IDUuNDZhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNS0yLjYwNy0xLjV6Ii8+PC9zdmc+"/>
 <img src="https://img.shields.io/badge/Copilot-111111?style=flat-square&logo=githubcopilot&logoColor=A98EE8"/>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=A98EE8"/>
 <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=A98EE8"/>
@@ -109,10 +107,4 @@ Lately I've been expanding into AI-assisted development: prototyping tools, auto
 
 <img src="https://raw.githubusercontent.com/patricialundgren/patricialundgren/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D1869&height=80&section=footer" width="100%"/>
 </div>
