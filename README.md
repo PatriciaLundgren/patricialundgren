@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D1869&height=185&section=header&text=Patricia%20Lundgren&fontSize=38&fontColor=E8DEFF&animation=fadeIn&fontAlignY=50&desc=Senior%20Product%20Designer%20%C2%B7%20UX%20%C2%B7%20Visual%20%C2%B7%20Game%20Design&descAlignY=80&descSize=14&descColor=A98EE8" width="100%"/>
+<br/>
+
+# Patricia Lundgren
+
+**Senior Product Designer · UX · Visual · Game Design**
 
 <br/>
 
 <a href="https://www.patricialundgren.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=A98EE8" alt="Portfolio"/></a>&ensp;
-<a href="https://www.linkedin.com/in/patricialundgren/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=A98EE8" alt="LinkedIn"/></a>&ensp;
+<a href="https://www.linkedin.com/in/patricialundgren/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0E5OEVFOCI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"/></a>&ensp;
 <a href="https://thatpat.itch.io/"><img src="https://img.shields.io/badge/Itch.io-111111?style=flat-square&logo=itchdotio&logoColor=A98EE8" alt="Itch.io"/></a>
 
 <br/><br/>
@@ -79,11 +83,11 @@ Lately I've been expanding into AI-assisted development: prototyping tools, auto
 <img src="https://skillicons.dev/icons?i=unity&theme=dark" height="48" title="Unity" alt="Unity"/>
 <img src="https://skillicons.dev/icons?i=unreal&theme=dark" height="48" title="Unreal Engine" alt="Unreal Engine"/>
 <img src="https://github.com/storybookjs.png?size=200" height="48" title="Storybook" alt="Storybook"/>
-<img src="https://github.com/aseprite.png?size=200" height="48" title="Aseprite" alt="Aseprite"/>
-<img src="https://procreate-assets-cdn.procreate.com/_nuxt/apple-icon.DmK-mlNX.png" height="48" title="Procreate" alt="Procreate"/>
+<img src="https://wsrv.nl/?url=github.com/aseprite.png%3Fsize%3D200&w=100&h=100&r=20&output=png" height="48" title="Aseprite" alt="Aseprite"/>
+<img src="https://wsrv.nl/?url=procreate-assets-cdn.procreate.com/_nuxt/apple-icon.DmK-mlNX.png&w=100&h=100&r=20&output=png" height="48" title="Procreate" alt="Procreate"/>
 <img src="https://images.squarespace-cdn.com/content/v1/62686529e6c2576f5d769e04/dc206776-3f5e-48ac-8023-bf130ce0e03a/ProcreateDreams-AppIcon-1x-1024x1024.png" height="48" title="Procreate Dreams" alt="Procreate Dreams"/>
 <img src="https://github.com/LottieFiles.png?size=200" height="48" title="LottieFiles" alt="LottieFiles"/>
-<img src="https://github.com/mirohq.png?size=200" height="48" title="Miro" alt="Miro"/>
+<img src="https://wsrv.nl/?url=is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/32/08/8f32084a-040b-ce5b-e638-bb421c32a1f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb.png&w=100&h=100&r=20&output=png" height="48" title="Miro" alt="Miro"/>
 
 <br/><br/>
 
