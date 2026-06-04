@@ -51,8 +51,8 @@ Lately I've been expanding into AI-assisted development: prototyping tools, auto
 **✦ Creative & Game Design**
 - Game-inspired UX thinking
 - Narrative & interaction design
-- Unity · Unreal Engine
-- Aseprite · Procreate Dreams
+- Game prototyping & worldbuilding
+- Illustration · Motion · Pixel art
 
 </td>
 <td valign="top" width="33%">
