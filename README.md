@@ -24,9 +24,9 @@
 
 ## Hi, I'm Patricia 👋
 
-I've been working in product design since 2016 - combining UX and usability with UI and visual design to craft intuitive, user-centred experiences. I blend structure, creativity, and game design thinking to deliver engaging work that sparks delight.
+I've been working in product design since 2016 - combining UX and usability with UI and visual design to craft intuitive, user-centered experiences. I blend structure, creativity, and game design thinking to deliver engaging work that sparks delight.
 
-Lately I've been expanding into AI-assisted development: prototyping tools, automating workflows, and shipping small apps, because the best design decisions come from understanding how things are built.
+Lately, I’ve been expanding into AI-assisted development: prototyping tools, automating workflows, and shipping small apps to better understand how design decisions play out in practice.
 
 <br/>
 
